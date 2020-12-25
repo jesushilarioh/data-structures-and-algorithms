@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Precondition: The value of inches must be nonnegatice.
+// Precondition: The value of inches must be nonnegative.
 // Postcondition: If the value of inches is < 0, the
 //      function returns -1.0; otherwise, the function
 //      returns the equivalent length in centimeters.
